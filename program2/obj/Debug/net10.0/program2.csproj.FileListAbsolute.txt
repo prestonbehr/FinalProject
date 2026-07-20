@@ -1,0 +1,15 @@
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\program2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\program2.AssemblyInfoInputs.cache
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\program2.AssemblyInfo.cs
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\program2.csproj.CoreCompileInputs.cache
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\program2.sourcelink.json
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\bin\Debug\net10.0\program2.exe
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\bin\Debug\net10.0\program2.deps.json
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\bin\Debug\net10.0\program2.runtimeconfig.json
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\bin\Debug\net10.0\program2.dll
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\bin\Debug\net10.0\program2.pdb
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\program2.dll
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\refint\program2.dll
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\program2.pdb
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\program2.genruntimeconfig.cache
+C:\Users\soulo\Downloads\Scripting Stuff\FinalProject\program2\obj\Debug\net10.0\ref\program2.dll
